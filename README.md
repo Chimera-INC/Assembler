@@ -5,6 +5,8 @@ Client assembly scripts
 
 - Open Terminal console inside .minecraft folder
 
+# Bash [Linux]
+
 - run:
 `wget https://raw.githubusercontent.com/Chimera-INC/Assembler/main/auto.sh && bash auto.sh`
 
