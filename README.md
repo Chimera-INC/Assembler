@@ -1,8 +1,9 @@
 # Assembler
 Client assembly scripts
 
-Create instance, install fabric
+- Create instance, install fabric
 
-Paste .sh scripts into .minecraft folder
+- Open Terminal console inside .minecraft folder
 
-Run .sh script as root
+- run:
+`wget https://raw.githubusercontent.com/Chimera-INC/Assembler/main/auto.sh && bash auto.sh`
