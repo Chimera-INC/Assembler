@@ -9,7 +9,7 @@ Client assembly scripts
 
 # Bash [Linux] (auto.sh)
 
-- Optionally open terminal inside `.minecraft` and run:
+- Open terminal inside `.minecraft` and run:
 
 `wget https://raw.githubusercontent.com/Chimera-INC/Assembler/main/auto.sh && bash auto.sh`
 
